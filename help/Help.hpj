@@ -1,0 +1,10 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+LCID=0x813 0x0 0x0 ; Nederlands (België)
+REPORT=Yes
+BMROOT=C:\HELP
+HLP=Help.hlp
+
+[FILES]
+Making a help.rtf
